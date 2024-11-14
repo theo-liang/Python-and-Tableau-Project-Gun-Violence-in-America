@@ -1,8 +1,8 @@
 ##### Description
-###### This project focused on using machine learning to analyze historical weather data from European weather stations, with the goal of improving weather prediction accuracy for ClimateWins. Key tasks included data preparation, exploration, and optimization to refine predictive models. Techniques used involved supervised learning models such as K-Nearest Neighbor, Decision Trees, and Artificial Neural Networks, as well as optimization with gradient descent. Findings were summarized with visualizations and presented to support ClimateWins' objective of forecasting weather and extreme events more accurately.
+###### This project involved analyzing a dataset on gun violence incidents to understand key factors influencing involvement. I performed data cleaning, exploratory visual analysis, and defined critical questions to formulate hypotheses. Advanced analyses included geospatial analysis, supervised and unsupervised machine learning, and time series analysis. Finally, I created visualizations and a dashboard report in Tableau to summarize the key insights.
 
 ##### Topics Covered
-###### Machine Learning, data optimization, supervised learning, gradient descent, K-Nearest Neighbor, Decision Tree, Artificial Neural Network, model evaluation
+###### Python, geospatial analysis, supervised machine learning, linear regression, unsupervised machine learning, k-means clustering, time series analysis
 
 ##### Tools Used
-###### Anaconda, Jupyter Notebook, Python
+###### Anaconda, Jupyter Notebook, Python, Tableau, Excel
